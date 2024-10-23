@@ -1,0 +1,8 @@
+requests
+matplotlib
+firebase-admin
+requests
+seaborn 
+plotly
+pandas
+firebase-admin

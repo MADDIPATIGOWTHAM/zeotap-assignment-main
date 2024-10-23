@@ -1,0 +1,5 @@
+/.venv
+./processing/__pycache__
+./storage/__pycache__
+./visualization/__pycache__
+./storage/serviceAccountKey.json
